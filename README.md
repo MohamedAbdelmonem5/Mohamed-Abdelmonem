@@ -29,15 +29,7 @@ With a strong foundation in **C#**, **ASP.NET Core**, and **SQL**, I’m constan
 
 ---
 
-## 📊 GitHub Stats  
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedfandoud&show_icons=true&theme=radical)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedfandoud&layout=compact&theme=radical)  
-
----
-
-## 🏆 Achievements  
-[![trophy](https://github-profile-trophy.vercel.app/?username=ahmedfandoud&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)  
+ 
 
 ---
 
